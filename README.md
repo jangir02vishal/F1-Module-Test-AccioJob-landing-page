@@ -1,6 +1,6 @@
 # AccioJob Landing Page Recreation
 
-Welcome to the AccioJob landing page recreation project! This project recreate several sections of the AccioJob landing page using your proficiency in HTML, CSS, and Bootstrap. The goal is to translate a design showcasing a platform dedicated to launching tech careers from scratch into a live webpage.
+Welcome to the AccioJob landing page recreation project! This project recreate several sections of the AccioJob landing page using the proficiency in HTML, CSS, and Bootstrap.
 
 ## Project Overview
 
